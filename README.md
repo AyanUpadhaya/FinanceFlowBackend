@@ -18,4 +18,4 @@ A single page MERN stack application for personal finance tracking. Built with R
 Link: https://github.com/AyanUpadhaya/FinanceFlowFrontend
 
 #### Frontend Live
-link: 
+link: https://finance-flow-tracker.netlify.app/
